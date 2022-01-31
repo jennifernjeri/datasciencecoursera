@@ -6,5 +6,3 @@ output: html_document
 ---
 
 ## This is a RMarkdown file
-
-## Is 1+1 really equals to 2?
